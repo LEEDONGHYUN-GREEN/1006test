@@ -1,0 +1,14 @@
+#todo-board li button:hover {
+    background-color: gray;
+    color: red;
+}
+
+#todo-board {
+    list-style: none;
+    margin-right: 10px;
+}
+#todo-board li{
+    color: black;
+    clear: both;
+    margin-top: 15px;
+}
